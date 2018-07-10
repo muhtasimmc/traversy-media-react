@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 // this is a compoenent class and each component has its own state
 class AddProject extends Component {
-  // need constructor method to create a state object for each class
+  // you can use constructor method to create a state object for each class
   constructor(){
     super()
     this.state = {
